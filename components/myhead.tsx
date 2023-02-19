@@ -6,7 +6,7 @@ export default function MyHead() {
       <meta name="description" content="Профессиональная защита ваших интересов от опытных адвокатов" />
       <meta name="keywords" content="защита, адвокаты, минск, помощь, проблема, профессиональная">
       <meta name="author" content="Stansilav Smirnov">
-      <title>Legist fresh</title>
+      <title>Legist</title>
     </Head>
   );
 }
